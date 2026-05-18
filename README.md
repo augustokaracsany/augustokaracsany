@@ -24,9 +24,6 @@ Me apasiona construir lógica de servidor eficiente, estructurar bases de datos 
 
 ### 📊 Mis Estadísticas de GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=augustokaracsany&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" height="150" alt="Stats de Augusto" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustokaracsany&layout=compact&theme=dark&hide_border=true&langs_count=4" height="150" alt="Lenguajes de Augusto" />
-</p>
+
 
 ---
