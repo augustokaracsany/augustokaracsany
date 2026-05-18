@@ -23,7 +23,6 @@ Me apasiona construir lógica de servidor eficiente, estructurar bases de datos 
 ---
 
 ### 📊 Mis Estadísticas de GitHub
-
-
+Proximamente...
 
 ---
